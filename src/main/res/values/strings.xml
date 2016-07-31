@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Feedback</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="Suggestions">
+        <item>Select an Option</item>
+        <item>Have a question</item>
+        <item>Suggest a feature</item>
+        <item>General Feedback</item>
+        <item>Report a bug</item>
+        <item>Report an issue</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
